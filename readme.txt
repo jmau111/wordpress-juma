@@ -31,7 +31,7 @@ screenshot.png
 
 === Tooling ===
 
-You can install the tools by opening yor terminal in the themes root folder
+You can install the tools by opening your terminal in the themes root folder
 and entering the following commands:
 npm install
 composer install
